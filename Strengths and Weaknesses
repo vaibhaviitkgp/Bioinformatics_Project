@@ -1,0 +1,50 @@
+Discuss strengths and weaknesses of  Logistic Regression, Support Vector Machines (SVM), Decision Tree,  KNN  for predicting Heart Disease.
+
+Logistic Regression: 
+
+Strengths:
+1. Easy to implement 
+2. Nice performance on linear data
+3. Outputs better probabilities
+Weaknesses: 
+1. Fails to capture complex relationships
+2. Only for linear boundaries
+3. Overfits on high dimensional data
+
+Support Vector Machine:
+
+Strengths:
+1. Robust to outliers
+2. Effective in high dimensional spaces
+3. Relatively memory efficient
+Weaknesses 
+1. Not suitable for large datasets
+2. Low performance when target classes overlap
+3. No probabilistic explanation for the classification
+
+
+Decision Tree:
+
+Strengths:
+1. Does not require normalization and scaling of data
+2. Less efforts during data pre-processing
+3. Very intuitive model and easy to interpret
+Weaknesses 
+1. Complex calculations than other models
+2. Higher time to train the model
+3. Changes in data can cause instability of tree
+
+KNN:
+
+Strengths:
+1. No training required
+2. Handles large data sets
+3. Non-parametric architecture
+Weaknesses:
+1. Sensitive to the choice of K
+2. Computationally expensive 
+3. Memory intensive
+
+
+
+
